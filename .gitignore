@@ -1,0 +1,40 @@
+# Ignore build directories
+build/
+cmake-build*/
+
+# Ignore IDE files
+.vscode/
+*.swp
+*.swo
+
+# Ignore compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+*.exe
+
+# Ignore library files
+*.a
+*.lib
+*.so
+*.dll
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore log files
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore remote repositories
+Middlewares/plug-and-trust/
+Middlewares/mbedtls/
+
+# Ignore remote repository build artifacts
+**/plug-and-trust/**/build/
+**/mbedtls/**/build/
