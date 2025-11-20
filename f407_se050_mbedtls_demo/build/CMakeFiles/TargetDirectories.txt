@@ -1,0 +1,3 @@
+/home/qcc01264/mygit/nxp_se50_demo/f407_se050_mbedtls_demo/build/CMakeFiles/f407_se050_demo.dir
+/home/qcc01264/mygit/nxp_se50_demo/f407_se050_mbedtls_demo/build/CMakeFiles/edit_cache.dir
+/home/qcc01264/mygit/nxp_se50_demo/f407_se050_mbedtls_demo/build/CMakeFiles/rebuild_cache.dir
