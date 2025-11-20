@@ -1,0 +1,1 @@
+arm-none-eabi-gcc "-mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Os -g" -TSTM32F407VG_FLASH.ld CMakeFiles/f407_se050_demo.dir/src/i2c_hal.c.o CMakeFiles/f407_se050_demo.dir/src/main.c.o CMakeFiles/f407_se050_demo.dir/src/se050_sss.c.o CMakeFiles/f407_se050_demo.dir/src/tls_app.c.o -o f407_se050_demo 
