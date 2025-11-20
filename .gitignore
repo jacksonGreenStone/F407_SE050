@@ -33,6 +33,3 @@ Thumbs.db
 
 # Ignore remote repositories
 
-# Ignore remote repository build artifacts
-**/plug-and-trust/**/build/
-**/mbedtls/**/build/
